@@ -1,0 +1,12 @@
+<?php
+/**
+ * @copyright Copyright (c) 2021. Chenhitry
+ * @author    Chenhitry <chenhaitry64@gmail.com>
+ * @link      https://github.com/chenhitry/laravel-command
+ */
+namespace DummyNamespace;
+
+trait DummyClass
+{
+    //
+}
