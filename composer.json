@@ -1,0 +1,7 @@
+{
+    "name": "trychenhai/laravel-view-command",
+    "description": "Easy to make view in Laravel with console.",
+    "require": {
+        "php": ">=7.2",
+    }
+}
